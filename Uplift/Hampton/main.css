@@ -13,12 +13,12 @@ body {
 
 h1 {
   text-align: center;
-  color: #fff;
+  color: #1F297A;
   font-weight: bold;
 }
 
 a {
-  color: #fff;
+  color: #1F297A;
 }
 
 a:hover {
@@ -30,10 +30,14 @@ a:hover {
   justify-content: center;
 }
 
+#header_logo img{
+  height: 261px;
+}
+
 .narrative {
   margin: 1px 15%;
   padding: 1em;
-  color: #fff;
+  color: #1F297A;
   line-height: 150%;
 }
 

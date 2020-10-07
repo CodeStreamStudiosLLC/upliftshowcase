@@ -7,7 +7,7 @@
 body {
   width: 100%;
   height: 100%;
-  background: #5D5A93 ;
+  background: #f0f0f0;
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Montserrat', sans-serif;
@@ -19,13 +19,17 @@ body {
   margin: 7%;
 }
 
+#header_logo img{
+  height: 261px;
+}
+
 h1 {
   text-align: center;
-  color: #fff;
+  color: #1F297A;
 }
 
 a {
-  color: #fff;
+  color: #1F297A;
   text-decoration: none;
 }
 
